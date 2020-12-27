@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132653" started-at="2020-12-27T16:47:03 IST" finished-at="2020-12-27T16:49:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132653" started-at="2020-12-27T16:47:03 IST" finished-at="2020-12-27T16:49:15 IST">
+      <class name="com.projectName.qa.base.IndexPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="27817" started-at="2020-12-27T16:47:03 IST" finished-at="2020-12-27T16:47:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ImageTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="ImageTest" duration-ms="189" started-at="2020-12-27T16:47:31 IST" finished-at="2020-12-27T16:47:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="13910" started-at="2020-12-27T16:47:31 IST" finished-at="2020-12-27T16:47:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="15780" started-at="2020-12-27T16:47:45 IST" finished-at="2020-12-27T16:48:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LogoTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="LogoTest" duration-ms="133" started-at="2020-12-27T16:48:01 IST" finished-at="2020-12-27T16:48:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="681" started-at="2020-12-27T16:48:01 IST" finished-at="2020-12-27T16:48:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="12550" started-at="2020-12-27T16:48:02 IST" finished-at="2020-12-27T16:48:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickSignInLinkTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="clickSignInLinkTest" duration-ms="4088" started-at="2020-12-27T16:48:14 IST" finished-at="2020-12-27T16:48:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignInLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="1096" started-at="2020-12-27T16:48:18 IST" finished-at="2020-12-27T16:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="14236" started-at="2020-12-27T16:48:19 IST" finished-at="2020-12-27T16:48:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInLinkTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="signInLinkTest" duration-ms="166" started-at="2020-12-27T16:48:33 IST" finished-at="2020-12-27T16:48:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="920" started-at="2020-12-27T16:48:34 IST" finished-at="2020-12-27T16:48:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="23400" started-at="2020-12-27T16:48:35 IST" finished-at="2020-12-27T16:48:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateClickcontactusLinkTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="validateClickcontactusLinkTest" duration-ms="2508" started-at="2020-12-27T16:48:58 IST" finished-at="2020-12-27T16:49:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickcontactusLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="807" started-at="2020-12-27T16:49:01 IST" finished-at="2020-12-27T16:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="setup" is-config="true" duration-ms="13453" started-at="2020-12-27T16:49:01 IST" finished-at="2020-12-27T16:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatecontactUsLinkTest()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="validatecontactUsLinkTest" duration-ms="93" started-at="2020-12-27T16:49:15 IST" finished-at="2020-12-27T16:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecontactUsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectName.qa.base.IndexPageTest@37374a5e]" name="tearDown" is-config="true" duration-ms="628" started-at="2020-12-27T16:49:15 IST" finished-at="2020-12-27T16:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.projectName.qa.base.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
