@@ -14,6 +14,11 @@ public class BaseClass {
   public LoginPage loginPage;
   public ContactUsPage contactUs;
   public AccountsPage accountPage;
+  /**This is a Base class
+   * 
+   * 
+   */
+  
   public OrderHistoryPage orderHistoryPage;
   public MyWishListPage myWishListPage;
   Logger log =Logger.getLogger(BaseClass.class);
